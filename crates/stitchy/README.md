@@ -1,14 +1,14 @@
 
 # Stitchy CLI
 
-![example workflow](https://github.com/grimace87/Stitchy/actions/workflows/cargo.yml/badge.svg)
+![example workflow](https://github.com/shining-grimace/Stitchy/actions/workflows/cargo.yml/badge.svg)
 [![Crates.io](https://img.shields.io/crates/v/stitchy.svg)](https://crates.io/crates/stitchy)
 
 CLI tool which wraps the features of the
-[stitchy-core](https://github.com/grimace87/Stitchy/tree/master/crates/stitchy-core) crate, adding configuration
+[stitchy-core](https://github.com/shining-grimace/Stitchy/tree/master/crates/stitchy-core) crate, adding configuration
 capabilities using command-line arguments and profile defaults, and adding file output.
 
-See the [root project overview](https://github.com/grimace87/Stitchy) for an
+See the [root project overview](https://github.com/shining-grimace/Stitchy) for an
 overview of the Stitchy ecosystem.
 
 ## Minimum Supported Rist Version (MSRV)

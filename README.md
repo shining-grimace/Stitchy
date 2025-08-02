@@ -14,8 +14,8 @@ More options are available, depending on the component.
 
 ## Components
 
-- [Stitchy Core](https://github.com/grimace87/Stitchy/tree/master/crates/stitchy-core)
-- [Stitchy CLI](https://github.com/grimace87/Stitchy/tree/master/crates/stitchy)
+- [Stitchy Core](https://github.com/shining-grimace/Stitchy/tree/master/crates/stitchy-core)
+- [Stitchy CLI](https://github.com/shining-grimace/Stitchy/tree/master/crates/stitchy)
 - [Stitchy Mobile](https://play.google.com/store/apps/details?id=com.shininggrimace.stitchy)
 
 ## Examples

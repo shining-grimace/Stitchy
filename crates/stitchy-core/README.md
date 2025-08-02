@@ -1,7 +1,7 @@
 
 # Stitchy Core
 
-![example workflow](https://github.com/grimace87/Stitchy/actions/workflows/cargo.yml/badge.svg)
+![example workflow](https://github.com/shining-grimace/Stitchy/actions/workflows/cargo.yml/badge.svg)
 [![Crates.io](https://img.shields.io/crates/v/stitchy-core.svg)](https://crates.io/crates/stitchy-core)
 
 Joins multiple existing image files into a single output. Design features include:
@@ -10,7 +10,7 @@ Joins multiple existing image files into a single output. Design features includ
 - Re-exports from the `image` crate, on which this crate relies heavily
 and the output is returned as an `image::DynamicImage`, which is re-exported from this crate for convenience.
 
-See the [root project overview](https://github.com/grimace87/Stitchy) for an
+See the [root project overview](https://github.com/shining-grimace/Stitchy) for an
 overview of the Stitchy ecosystem.
 
 ## Minimum Supported Rist Version (MSRV)
@@ -56,5 +56,5 @@ fn run_stitch() -> Result<(), String> {
 ```
 
 See these examples for more complicated real-world usage:
-- [Stitchy CLI - main.rs](https://github.com/grimace87/Stitchy/blob/master/crates/stitchy/src/main.rs)
-- [Stitchy Mobile - stitch.rs](https://github.com/grimace87/StitchyMobile/blob/master/rust/src/stitch.rs)
+- [Stitchy CLI - main.rs](https://github.com/shining-grimace/Stitchy/blob/master/crates/stitchy/src/main.rs)
+- [Stitchy Mobile - stitch.rs](https://github.com/shining-grimace/StitchyMobile/blob/master/rust/src/stitch.rs)
